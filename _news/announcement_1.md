@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-04-11
 inline: true
 ---
 
-A simple inline announcement.
+New role as Principal Applied Research Scientist at <a href="https://www.reverso.net/spell-checker/english-spelling-grammar/">Reverso</a>.

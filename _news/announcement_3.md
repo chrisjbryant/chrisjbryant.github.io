@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-12-09
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Invited talk: Evolution of Grammatical Error Correction at <a href="https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2022">NLP4CALL</a>.
