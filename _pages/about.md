@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # rendered in the page body instead, so the heading can link to Google Scholar
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -30,3 +30,11 @@ I completed my PhD as a member of [Churchill College](https://www.chu.cam.ac.uk/
 
 Download: <a href="{{ '/assets/pdf/cv/2022_CV_Academic.pdf' | relative_url }}">Academic CV</a>  
 Download: <a href="{{ '/assets/pdf/cv/2022_CV_Industrial.pdf' | relative_url }}">Industry CV</a>
+
+<h2>
+  <a href="https://scholar.google.com/citations?user=jMq-Pg4AAAAJ" style="color: inherit">selected publications</a>
+</h2>
+
+<div class="publications">
+  {% bibliography --group_by none --query @*[selected=true]* %}
+</div>
