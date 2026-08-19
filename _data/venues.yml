@@ -1,6 +1,37 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
+# Colours and links for the `abbr` field of each bibliography entry.
+"ACL":
+  url: https://aclanthology.org/venues/acl/
+  color: "#d61f26"
+"EACL":
+  url: https://aclanthology.org/venues/eacl/
+  color: "#d61f26"
+"NAACL":
+  url: https://aclanthology.org/venues/naacl/
+  color: "#d61f26"
+"EMNLP":
+  url: https://aclanthology.org/venues/emnlp/
+  color: "#c1272d"
+"CoNLL":
+  url: https://aclanthology.org/venues/conll/
+  color: "#e8710a"
+"COLING":
+  url: https://aclanthology.org/venues/coling/
+  color: "#00629b"
+"LREC":
+  url: https://aclanthology.org/venues/lrec/
+  color: "#0071bc"
+"BEA":
+  url: https://aclanthology.org/venues/bea/
+  color: "#3c8dbc"
+"MWE":
+  url: https://aclanthology.org/venues/mwe/
+  color: "#7b5aa6"
+"CL":
+  url: https://direct.mit.edu/coli
+  color: "#1a5632"
+"JOHD":
+  url: https://openhumanitiesdata.metajnl.com/
+  color: "#00857d"
+"PSiCL":
+  url: https://pressto.amu.edu.pl/index.php/psicl
+  color: "#8a6d3b"
