@@ -28,8 +28,8 @@ My main research focus is automatic Grammatical Error Detection and Correction (
 
 I completed my PhD as a member of [Churchill College](https://www.chu.cam.ac.uk/) at the University of Cambridge where I was supervised by [Ted Briscoe](https://www.cl.cam.ac.uk/~ejb1/) and supported by the Institute for Automated Language Teaching and Assessment ([ALTA](http://alta.cambridgeenglish.org/)). Before that, I worked as a Research Assistant in the [School of Computing](https://www.comp.nus.edu.sg/) at the National University of Singapore under [Hwee Tou Ng](https://www.comp.nus.edu.sg/~nght/). I completed a MSc in Speech and Language Processing and an undergraduate MA(Hons) in Chinese and Linguistics, both at the [University of Edinburgh](https://www.ed.ac.uk/).
 
-Download: <a href="{{ '/assets/pdf/cv/2022_CV_Academic.pdf' | relative_url }}">Academic CV</a>  
-Download: <a href="{{ '/assets/pdf/cv/2022_CV_Industrial.pdf' | relative_url }}">Industry CV</a>
+Download: <a href="{{ '/assets/pdf/cv/2026_CV_Academic.pdf' | relative_url }}">Academic CV</a>  
+Download: <a href="{{ '/assets/pdf/cv/2026_CV_Industry.pdf' | relative_url }}">Industry CV</a>
 
 <h2>
   <a href="https://scholar.google.com/citations?user=jMq-Pg4AAAAJ" style="color: inherit">selected publications</a>
