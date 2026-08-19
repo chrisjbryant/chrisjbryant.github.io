@@ -8,7 +8,7 @@ middle_name:
 last_name: Bryant
 contact_note: # a short note rendered under the social icons
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Applied AI Research Scientist at Writer and Visiting Researcher in the Natural Language
+  Staff AI Research Scientist at Writer and Visiting Researcher in the Natural Language
   Processing group at the University of Cambridge, working on grammatical error detection
   and correction.
 footer_text: >

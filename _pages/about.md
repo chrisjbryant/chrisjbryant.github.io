@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist, Natural Language Processing, Writer Inc.
+subtitle: Staff AI Research Scientist, Natural Language Processing, Writer Inc.
 
 profile:
   align: right
@@ -22,7 +22,7 @@ latest_posts:
   enabled: false
 ---
 
-I am an Applied AI Research Scientist at [Writer](https://writer.com/) and Visiting Researcher in the [Natural Language Processing (NLP) group](https://www.cst.cam.ac.uk/research/themes/natural-language-processing) at the University of Cambridge.
+I am a Staff AI Research Scientist at [Writer](https://writer.com/) and Visiting Researcher in the [Natural Language Processing (NLP) group](https://www.cst.cam.ac.uk/research/themes/natural-language-processing) at the University of Cambridge.
 
 My main research focus is automatic Grammatical Error Detection and Correction (GED/GEC), but I have also worked on codeswitching (using more than one language in a sentence), automatic annotation, artificial data generation, robust evaluation, and discourse parsing. I built and maintain the ERRor ANnotation Toolkit ([ERRANT](https://github.com/chrisjbryant/errant)), which is widely used to measure progress in GEC, and also led the Building Educational Applications Shared Task on Grammatical Error Correction ([BEA-2019](https://www.cl.cam.ac.uk/research/nl/bea2019st/)).
 
